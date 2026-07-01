@@ -41,6 +41,7 @@ pip install flask yt-dlp
 
 **2. Run the server**
 ```bash
+cd Musiflow
 cd music_app
 py app.py          # Windows
 python3 app.py     # Mac / Linux
